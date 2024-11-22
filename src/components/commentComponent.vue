@@ -22,5 +22,4 @@ const commenter = (t) => {
   text.value = "";
 };
 </script>
-
 <style lang="scss" scoped></style>
